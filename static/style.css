@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+    font-size: 2.5rem;
+    margin-top: 20px;
+}
+
+#video-container {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+img {
+    border: 5px solid #333;
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+}
+
+#people-count-container {
+    margin-top: 20px;
+}
+
+#people-count {
+    color: #ff6347;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
