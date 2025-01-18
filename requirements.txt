@@ -4,3 +4,4 @@ mediapipe==0.10.13
 numpy
 deepface==0.0.79
 tensorflow==2.18.0
+Werkzeug==2.0.3
